@@ -47,13 +47,7 @@ streamlit run app.py
     
     https://docuchat-ai-agop.streamlit.app/
 ---
-## 🔑 Environment Variables
 
-Create a `.env` file:
-
-```env
-GROQ_API_KEY=your_api_key_here
-```
 
 ## 🎯 Future Improvements
 
